@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/stack"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"FIBONNACI.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "shoppingsite-main"
+	}
+}
