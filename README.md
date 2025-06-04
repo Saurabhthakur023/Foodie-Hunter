@@ -26,42 +26,7 @@ Design: Custom CSS styling for unique UI/UX
 
 Version Control: Git & GitHub
 
-📁 Project Structure
-pgsql
-Copy
-Edit
-Foodie-Hunter/
-├── biryani/
-├── chinese/
-├── css/
-├── paneer/
-├── scripts/
-├── south indian/
-├── vegetable/
-├── shoppingsite-main/
-├── images/
-│   ├── foodie hunter.png
-│   ├── foodielogo.png
-│   └── pexels-photo-235985.jpeg
-├── ERdiagram.jpg
-├── about.html
-├── cart.html
-├── contact.html
-├── feedback.html
-├── form.html
-├── index.html
-├── order.html
-├── payment.html
-├── search.html
-├── sign.html
-├── wishlist.html
-├── youraddress.html
-├── index.css
-├── index.js
-├── fooditem.js
-└── README.md
-📸 Screenshots
-Include relevant screenshots here to showcase the UI and functionality.
+
 
 🔧 Installation & Usage
 Clone the Repository:
