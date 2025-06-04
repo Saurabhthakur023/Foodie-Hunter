@@ -1,4 +1,5 @@
 🍽️ Foodie Hunter
+
 Foodie Hunter is a responsive and interactive food ordering website that offers a seamless user experience for browsing menus, managing carts, and placing orders. Built using HTML, CSS, and JavaScript, it serves as a frontend prototype for a modern food delivery platform.
 
 🚀 Features
